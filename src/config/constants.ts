@@ -1,0 +1,1 @@
+export const HOLIDAYS_API_BASE: string = 'http://nolaborables.com.ar/api/v2/feriados/';
